@@ -32,5 +32,6 @@ By working on this project, you will gain practical skills in the following area
 - **Password Cracking:** Learn techniques for password cracking, including dictionary attacks, brute force attacks, and rainbow table attacks.
 
 - **Password Best Practices:** Gain insights into password security best practices, including password complexity, length, and protection.
-[NPdeQ43o8P9HJmJzg_Goldman Sachs_SXZnRh9TzXvyq38wA_1692198338055_completion_certificate.pdf](https://github.com/monika-sahay/GSE_Virtual_Program/files/12361673/NPdeQ43o8P9HJmJzg_Goldman.Sachs_SXZnRh9TzXvyq38wA_1692198338055_completion_certificate.pdf)
+- <img width="508" alt="Screenshot 2023-05-24 135601" src="https://github.com/monika-sahay/GSE_Virtual_Program/files/12361673/NPdeQ43o8P9HJmJzg_Goldman.Sachs_SXZnRh9TzXvyq38wA_1692198338055_completion_certificate.pdf">
+[NPdeQ43o8P9HJmJzg_Goldman Sachs_SXZnRh9TzXvyq38wA_1692198338055_completion_certificate.pdf]
 
